@@ -1,3 +1,4 @@
+// 문자열 비교
 public class StringEqualsExample {
     public static void main(String[] args){
 
